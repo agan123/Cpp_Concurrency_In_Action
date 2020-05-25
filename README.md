@@ -4,6 +4,7 @@ C++ Concurrency In Action
 -------------------------
 - 作者：Anthony Williams
 - 译者：陈晓伟
+- fork: 来源已经封版, 这里fork一份,修改我阅读过程中发现翻译有问题的地方
 
 ## 本书概述
 
